@@ -11,3 +11,17 @@ The objective is to scrap the details of MacBook from FlipKart.
 4. Product Features
 5. Product Ratings
 6. Product Reviews
+
+## Programming Language 
+Python3
+
+## Libraries imported:
+
+1. requests
+
+2. BeautifulSoup
+
+3. time
+
+4. pandas
+
