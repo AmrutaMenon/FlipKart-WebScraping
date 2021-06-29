@@ -29,4 +29,4 @@
 
 ## Conclusion
     
-    Scrapped data such as Product Name, Product Price, Product stars, Product Features, Product Ratings, Product Reviews from 2 pages of FlipKart and created DataFrames.
+    Scrapped details of all the MacBooks listedon FlipKart such as Product Name, Product Price, Product stars, Product Features, Product Ratings, Product Reviews and created DataFrames inorder to view data in a tabular form.
